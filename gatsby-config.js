@@ -28,7 +28,7 @@ module.exports = {
       options: {
         name: `Chandan`,
         short_name: `chandan`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        description: `my portfolio`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,

@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "cara",
+  "name": "Chandan",
   "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
   "version": "0.2.10",
   "author": "LekoArts <hello@lekoarts.de>",
@@ -17,7 +16,7 @@
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-cara": "^2.0.0",
-    "gatsby": "^3.6.1",
+    "gatsby": "^3.13.0",
     "gatsby-plugin-gatsby-cloud": "^2.6.1",
     "gatsby-plugin-google-analytics": "^3.6.0",
     "gatsby-plugin-manifest": "^3.6.0",
